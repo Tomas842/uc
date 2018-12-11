@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 moj text
+=======
+prvy v riadok v 2w
+druhy v riadok v 2w
+
+
+piaty riadok v 2w
+>>>>>>> e029f55aa6288c29151b02c4d814a843e0caba34
