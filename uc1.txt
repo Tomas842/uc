@@ -1,1 +1,4 @@
 first line 1w
+second line 2u
+
+4 line 4u
